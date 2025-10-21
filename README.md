@@ -41,11 +41,11 @@ You can use Lemons.
 \
 As objects hit me in quick succesion, this increases the COMBO counter.  How high can you get it?  Try working together with your fellow viewers!\
 \
-![counter](media/comboCounter.jpg)\
+![counter](media/comboCounter.jpg)
 
 After the combo ends, total damage is tallied up, and the combo will get a random rating\
 \
-![rating](media/comboRating.jpg)\
+![rating](media/comboRating.jpg)
 \
 Currently, combos and damage are purely cosmetic.
 
