@@ -15,8 +15,7 @@ https://landie.land/shop/sammi-extensions/
 \
 Twitch Integrated Throwing System\
 https://remasuri3.itch.io/tits/
-\
-\
+
 # What the hell?
 
 It can be a bit overwhelming, but this stream has quite a few features to make it an interactive and enjoyable experience.  Think of it like a game you can play as you watch.\
