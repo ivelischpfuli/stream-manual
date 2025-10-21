@@ -34,10 +34,10 @@ You can use Lemons.
 ## The combo counter!
 
 As objects hit me in quick succesion, this increases the COMBO counter.  How high can you get it?  Try working together with your fellow viewers!
-!(media/comboCounter.jpg)
+![counter](media/comboCounter.jpg)
 
 After the combo ends, total damage is tallied up, and the combo will get a random rating
-!(media/comboRating.jpg)
+![rating](media/comboRating.jpg)
 
 Currently, combos and damage are purely cosmetic.
 
@@ -46,11 +46,11 @@ Currently, combos and damage are purely cosmetic.
 There are quite a few chat commands that anyone can use which cause various effects.
 
 !taunt - Causes me to taunt, which displays a random alpaca for a brief moment.  There is essentially no cooldown on this, so it can be used over and over.
-!(media/taunt.gif)
+![taunt gif](media/taunt.gif)
 
 But, if an item hits me shortly after I taunt...
 
-!(media/parry.gif)
+![parry gif](media/parry.gif)
 
 I'll parry it!  This causes the item to do no damage and not count toward the combo counter.  It looks cool though?
 
