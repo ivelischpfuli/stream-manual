@@ -63,4 +63,13 @@ I'll parry it!  This causes the item to do no damage and not count toward the co
 !stoat - Shares a random stoat fact.  What could this imply?\
 !lurk - A simple lurk command, doesn't do much else.\
 
-# TTS
+# Text to Speech, featuring Dangonya
+
+*Type: Channel Point Redeem*\
+Dangonya will speak whatever Godless nonsense you send to her.\
+\
+![Dango idle](media/dangoTalkIdle.gif)
+\
+She can also read off randomly saved quotes.\
+
+#
