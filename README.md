@@ -14,7 +14,7 @@ https://landie.land/shop/sammi-extensions/
 \
 \
 Twitch Integrated Throwing System\
-https://remasuri3.itch.io/tits
+https://remasuri3.itch.io/tits/
 \
 \
 # What the hell?
@@ -23,12 +23,12 @@ It can be a bit overwhelming, but this stream has quite a few features to make i
 \
 Here is a quick glossary of terms\
 \
-TITS - "Twitch Integrated Throwing System", the thing that throws objects at me.\
-SAMMI - "Stream Automation, Management, Monitoring & Innovation", the software that makes everything here possible.\
-LandiTube - The thing that makes my avatar bounce around and stuff!  Runs off SAMMI, created by Landie.\
-Lemons - This channel's version of Channel Points (when life gives you Lemons...)\
-Plenty - The fake currency used in the pick-pocketing system.  It's called "Plenty" because you want PLENTY of it.  Currently has no use.\
-Dango/Dangonya - Resident fat French cat, real name Felicity Petit, used for the Text to Speech (TTS), and sometimes appears in the FAT AND SASSY redeem.\
+*TITS* - "Twitch Integrated Throwing System", the thing that throws objects at me.\
+*SAMMI* - "Stream Automation, Management, Monitoring & Innovation", the software that makes everything here possible.\
+*LandiTube* - The thing that makes my avatar bounce around and stuff!  Runs off SAMMI, created by Landie.\
+*Lemons* - This channel's version of Channel Points (when life gives you Lemons...)\
+*Plenty* - The fake currency used in the pick-pocketing system.  It's called "Plenty" because you want PLENTY of it.  Currently has no use.\
+*Dango/Dangonya* - Resident fat French cat, real name Felicity Petit, used for the Text to Speech (TTS), and sometimes appears in the FAT AND SASSY redeem.\
 
 # Big fat bouncy Twitch Intergrated Throwing System
 
