@@ -75,6 +75,7 @@ She can also read off randomly saved quotes.
 # ...doll?
 
 ![cursed doll](media/iveliDoll.jpg)
+\
 *Do not make eye contact with it.*\
 *Do not attempt to communicate with it.*\
 *Do not listen to anything it says.*\
