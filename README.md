@@ -1,6 +1,5 @@
 # Welcome to the Iveli Alpaca stream!
-![A poorly drawn alpaca pointing to a sign that reads "QUADRUPLE HELL"](media/quadrupleHell.jpg)\
-\
+![A poorly drawn alpaca pointing to a sign that reads "QUADRUPLE HELL"](media/quadrupleHell.jpg)
 I'm Iveli Alpaca, and I'm the one responsible for this mess you're about to subject yourself to.  Thankfully, this manual will help maximize your survival instinct.\
 \
 Most things here were set up by me with the power of SAMMI, LandiTube, the Twitch Integrated Throwing System\
@@ -17,7 +16,6 @@ Twitch Integrated Throwing System\
 https://remasuri3.itch.io/tits/
 
 # What the hell?
-\
 It can be a bit overwhelming, but this stream has quite a few features to make it an interactive and enjoyable experience.  Think of it like a game you can play as you watch.\
 \
 ***Also please for the love of God***\
@@ -34,7 +32,6 @@ Here is a quick glossary of terms\
 *Dango/Dangonya* - Resident fat French cat, real name Felicity Petit, used for the Text to Speech (TTS), and sometimes appears in the FAT AND SASSY redeem.\
 
 # Big fat bouncy Twitch Intergrated Throwing System
-\
 You can use Lemons.
 
 ## The combo counter!
@@ -50,7 +47,6 @@ After the combo ends, total damage is tallied up, and the combo will get a rando
 Currently, combos and damage are purely cosmetic.
 
 # Chat commands, as simple as BANG!
-\
 There are quite a few chat commands that anyone can use which cause various effects.\
 \
 !taunt - Causes me to taunt, which displays a random alpaca for a brief moment.  There is essentially no cooldown on this, so it can be used over and over.\
@@ -63,13 +59,12 @@ But, if an item hits me shortly after I taunt...\
 
 I'll parry it!  This causes the item to do no damage and not count toward the combo counter.  It looks cool though?\
 \
-!manual or !commands - Brings up a link to this page.  You're here right now!\
+!manual or !commands - Brings up a link to the manual.  You're here right now!\
 !alpaca - Shares a random alpaca fact.  May or may not be completely accurate (most are accurate though).\
 !stoat - Shares a random stoat fact.  What could this imply?\
-!lurk - A simple lurk command, doesn't do much else.\
+!lurk - A simple lurk command, doesn't do much else.
 
 # Text to Speech, featuring Dangonya
-\
 *Type: Channel Point Redeem*\
 Dangonya will speak whatever Godless nonsense you send to her.\
 \
@@ -77,4 +72,11 @@ Dangonya will speak whatever Godless nonsense you send to her.\
 \
 She can also read off randomly saved quotes.
 
-#
+# ...doll?
+
+![cursed doll](media/iveliDoll.jpg)
+*Do not make eye contact with it.*\
+*Do not attempt to communicate with it.*\
+*Do not listen to anything it says.*\
+\
+This is the antagonist.
