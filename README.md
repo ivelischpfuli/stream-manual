@@ -70,6 +70,6 @@ Dangonya will speak whatever Godless nonsense you send to her.\
 \
 ![Dango idle](media/dangoTalkIdle.gif)
 \
-She can also read off randomly saved quotes.\
+She can also read off randomly saved quotes.
 
 #
