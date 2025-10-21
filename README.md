@@ -2,7 +2,7 @@
 ![A poorly drawn alpaca pointing to a sign that reads "QUADRUPLE HELL"](media/quadrupleHell.jpg)
 I'm Iveli Alpaca, and I'm the one responsible for this mess you're about to subject yourself to.  Thankfully, this manual will help maximize your survival instinct.\
 \
-Most things here were set up by me with the power of SAMMI, LandiTube, the Twitch Integrated Throwing System\
+Most things here were set up by me with the power of SAMMI, LandiTube, and the Twitch Integrated Throwing System\
 \
 Official SAMMI site\
 https://sammi.solutions/
@@ -34,15 +34,18 @@ Here is a quick glossary of terms\
 # Big fat bouncy Twitch Intergrated Throwing System
 You can use Lemons.
 
-## The combo counter!
+# The combo counter!
 \
-As objects hit me in quick succesion, this increases the COMBO counter.  How high can you get it?  Try working together with your fellow viewers!\
+As objects hit me in quick succesion, this increases the COMBO counter.\
 \
 ![counter](media/comboCounter.jpg)
 
-After the combo ends, total damage is tallied up, and the combo will get a random rating\
+After the combo ends, total damage is tallied up, and the combo will get a random rating.\
 \
 ![rating](media/comboRating.jpg)
+\
+How high can you get it?  Try working together with your fellow viewers!\
+*Protip: "Throw Two Objects" can be used to help build and maintain a combo!\
 \
 Currently, combos and damage are purely cosmetic.
 
@@ -70,7 +73,7 @@ Dangonya will speak whatever Godless nonsense you send to her.\
 \
 ![Dango idle](media/dangoTalkIdle.gif)
 \
-She can also read off randomly saved quotes.
+She can also read off randomly saved quotes, running off a modified version of chrizzz_1508's Quote System, which can be found here: https://ko-fi.com/s/8c92e53077
 
 # ...doll?
 
@@ -80,4 +83,4 @@ She can also read off randomly saved quotes.
 *Do not attempt to communicate with it.*\
 *Do not listen to anything it says.*\
 \
-This is the antagonist.
+This is the antagonist.  It'll go away if you tell it to SHUT THE F#!% UP.\
