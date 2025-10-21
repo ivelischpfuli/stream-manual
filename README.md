@@ -17,7 +17,7 @@ Twitch Integrated Throwing System\
 https://remasuri3.itch.io/tits/
 
 # What the hell?
-
+\
 It can be a bit overwhelming, but this stream has quite a few features to make it an interactive and enjoyable experience.  Think of it like a game you can play as you watch.\
 \
 ***Also please for the love of God***\
@@ -34,11 +34,11 @@ Here is a quick glossary of terms\
 *Dango/Dangonya* - Resident fat French cat, real name Felicity Petit, used for the Text to Speech (TTS), and sometimes appears in the FAT AND SASSY redeem.\
 
 # Big fat bouncy Twitch Intergrated Throwing System
-
+\
 You can use Lemons.
 
 ## The combo counter!
-
+\
 As objects hit me in quick succesion, this increases the COMBO counter.  How high can you get it?  Try working together with your fellow viewers!\
 \
 ![counter](media/comboCounter.jpg)\
@@ -50,7 +50,7 @@ After the combo ends, total damage is tallied up, and the combo will get a rando
 Currently, combos and damage are purely cosmetic.
 
 # Chat commands, as simple as BANG!
-
+\
 There are quite a few chat commands that anyone can use which cause various effects.\
 \
 !taunt - Causes me to taunt, which displays a random alpaca for a brief moment.  There is essentially no cooldown on this, so it can be used over and over.\
@@ -69,7 +69,7 @@ I'll parry it!  This causes the item to do no damage and not count toward the co
 !lurk - A simple lurk command, doesn't do much else.\
 
 # Text to Speech, featuring Dangonya
-
+\
 *Type: Channel Point Redeem*\
 Dangonya will speak whatever Godless nonsense you send to her.\
 \
