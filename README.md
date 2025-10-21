@@ -1,4 +1,5 @@
 # Welcome to the Iveli Alpaca stream!
+![A poorly drawn alpaca pointing to a sign that reads "QUADRUPLE HELL"](https://github.com/ivelischpfuli/stream-manual/blob/main/media/quadrupleHell.jpg)
 
 ## What the hell?
 
