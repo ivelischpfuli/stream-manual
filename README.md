@@ -20,6 +20,10 @@ https://remasuri3.itch.io/tits/
 
 It can be a bit overwhelming, but this stream has quite a few features to make it an interactive and enjoyable experience.  Think of it like a game you can play as you watch.\
 \
+***Also please for the love of God***\
+***use the Check-In redeem***\
+*Twitch keeps changing the rules of the game and I can barely keep up*\
+\
 Here is a quick glossary of terms\
 \
 *TITS* - "Twitch Integrated Throwing System", the thing that throws objects at me.\
@@ -31,7 +35,7 @@ Here is a quick glossary of terms\
 
 # Big fat bouncy Twitch Intergrated Throwing System
 
-You can use Lemons.\
+You can use Lemons.
 
 ## The combo counter!
 
@@ -43,7 +47,7 @@ After the combo ends, total damage is tallied up, and the combo will get a rando
 \
 ![rating](media/comboRating.jpg)\
 \
-Currently, combos and damage are purely cosmetic.\
+Currently, combos and damage are purely cosmetic.
 
 # Chat commands, as simple as BANG!
 
@@ -59,6 +63,7 @@ But, if an item hits me shortly after I taunt...\
 
 I'll parry it!  This causes the item to do no damage and not count toward the combo counter.  It looks cool though?\
 \
+!manual or !commands - Brings up a link to this page.  You're here right now!\
 !alpaca - Shares a random alpaca fact.  May or may not be completely accurate (most are accurate though).\
 !stoat - Shares a random stoat fact.  What could this imply?\
 !lurk - A simple lurk command, doesn't do much else.\
