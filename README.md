@@ -33,14 +33,17 @@ Here is a quick glossary of terms\
 
 # Sounds!!
 *Type: Channel Point redeem*\
+\
 There are many sounds.
 
 # Big fat bouncy Twitch Intergrated Throwing System
 *Type: Channel Point redeem*\
+\
 You can use Lemons.
 
 # The combo counter!
 *Type: Channel Point redeem*\
+\
 As objects hit me in quick succesion, this increases the COMBO counter.\
 \
 ![counter](media/comboCounter.jpg)
@@ -56,6 +59,7 @@ Currently, combos and damage are purely cosmetic.
 
 # Chat commands, as simple as BANG!
 *Type: Chat message*\
+\
 There are quite a few chat commands that anyone can use which cause various effects.\
 \
 !taunt - Causes me to taunt, which displays a random alpaca for a brief moment.  There is no cost or cooldown, so it can be used over and over.\
@@ -76,6 +80,7 @@ I'll parry it!  This causes the item to do no damage and not count toward the co
 
 # Pickpocketing game!
 *Type: Channel Point redeem/chat message*\
+\
 You can use the "Pickpocket Me" redeem to accumulate Plenty.  Once you have some Plenty, you can use the *!pickpocket [username]* command to STEAL Plenty from another chat member!\
 *(Currently you need to type the user's name verbatim because I'm dumb and don't know how to properly code*\
 \
@@ -83,13 +88,15 @@ The !currency command will tell you how much Plenty you have.\
 
 # Russian Roulette?!
 *Type: Channel Point redeem*\
-![crazy alpaca](media/KILL1.png)
 \
 Once a stream, you can test your luck with this dangerous contraption.  An animation will play, and you will have a 1 in 6 chance of receiving a 30 minute timeout.\
+![crazy alpaca](media/KILL1.png)
+\
 *Which is the lucky outcome?  I don't know!*
 
 # Text to Speech, featuring Dangonya
 *Type: Channel Point Redeem*\
+\
 Dangonya will speak whatever Godless nonsense you send to her.\
 \
 ![Dango idle](media/dangoTalkIdle.gif)
