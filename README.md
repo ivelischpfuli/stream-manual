@@ -29,7 +29,7 @@ Here is a quick glossary of terms\
 *LandiTube* - The thing that makes my avatar bounce around and stuff!  Runs off SAMMI, created by Landie.\
 *Lemons* - This channel's version of Channel Points (when life gives you Lemons...)\
 *Plenty* - The fake currency used in the pick-pocketing system.  It's called "Plenty" because you want PLENTY of it.  Currently has no use.\
-*Dango/Dangonya* - Resident fat French cat, real name Felicity Petit, used for the Text to Speech (TTS), and sometimes appears in the FAT AND SASSY redeem.\
+*Dango/Dangonya* - Resident fat French cat, real name Felicity Petit, used for the Text to Speech (TTS), and sometimes appears in the FAT AND SASSY redeem.
 
 # Sounds!!
 *Type: Channel Point redeem*\
@@ -83,6 +83,7 @@ The !currency command will tell you how much Plenty you have.\
 
 # Russian Roulette?!
 *Type: Channel Point redeem*\
+!(crazy alpaca)[media/KILL1.png]
 Once a stream, you can test your luck with this dangerous contraption.  An animation will play, and you will have a 1 in 6 chance of receiving a 30 minute timeout.\
 
 # Text to Speech, featuring Dangonya
