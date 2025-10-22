@@ -32,6 +32,13 @@ Here is a quick glossary of terms\
 *Dango/Dangonya* - Resident fat French cat, real name Felicity Petit, used for the Text to Speech (TTS), and sometimes appears in the FAT AND SASSY redeem.\
 *Iveli-verse* - Catch-all term for characters and things I've made.
 
+# Music?
+*Type: non-interactible passive*\
+\
+The music that plays on the Starting and BRB screens are various original tracks I've made!\
+You can find most of the songs on my YouTube channel.  The following link will bring you to most of my original work.\
+https://www.youtube.com/playlist?list=PLGhL8Rq_E6Zg6pFrtNNle-lsHSNdu6aIJ
+
 # Big fat bouncy Twitch Intergrated Throwing System
 *Type: Channel Point redeem*\
 \
@@ -53,6 +60,13 @@ How high can you get it?  Try working together with your fellow viewers!\
 \
 Currently, combos and damage are purely cosmetic.
 
+# The Curse
+*Type: Channel Point redeem*\
+\
+Has various effects.  What are the effects?\
+\
+*Well, you should watch the stream and you may periodically see...*
+
 # Chat commands, as simple as BANG!
 *Type: Chat message*\
 \
@@ -68,7 +82,7 @@ But, if an item hits me shortly after I taunt...\
 
 I'll parry it!  This causes the item to do no damage and not count toward the combo counter.  It looks cool though?\
 \
-!manual or !commands - Brings up a link to the manual.  You're here right now!\
+!manual or !commands or !faq - Brings up a link to the manual.  You're here right now!\
 !alpaca - Shares a random alpaca fact.  May or may not be completely accurate (most are accurate though).\
 !stoat - Shares a random stoat fact.  What could this imply?\
 !lurk - A simple lurk command, doesn't do much else.\
