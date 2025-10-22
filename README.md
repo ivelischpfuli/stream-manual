@@ -31,11 +31,16 @@ Here is a quick glossary of terms\
 *Plenty* - The fake currency used in the pick-pocketing system.  It's called "Plenty" because you want PLENTY of it.  Currently has no use.\
 *Dango/Dangonya* - Resident fat French cat, real name Felicity Petit, used for the Text to Speech (TTS), and sometimes appears in the FAT AND SASSY redeem.\
 
+# Sounds!!
+*Type: Channel Point redeem*\
+There are many sounds.
+
 # Big fat bouncy Twitch Intergrated Throwing System
+*Type: Channel Point redeem*\
 You can use Lemons.
 
 # The combo counter!
-\
+*Type: Channel Point redeem*\
 As objects hit me in quick succesion, this increases the COMBO counter.\
 \
 ![counter](media/comboCounter.jpg)
@@ -45,11 +50,12 @@ After the combo ends, total damage is tallied up, and the combo will get a rando
 ![rating](media/comboRating.jpg)
 \
 How high can you get it?  Try working together with your fellow viewers!\
-*Protip: "Throw Two Objects" can be used to help build and maintain a combo!\
+*Protip: "Throw Two Objects" can be used to help build and maintain a combo!*\
 \
 Currently, combos and damage are purely cosmetic.
 
 # Chat commands, as simple as BANG!
+*Type: Chat message*\
 There are quite a few chat commands that anyone can use which cause various effects.\
 \
 !taunt - Causes me to taunt, which displays a random alpaca for a brief moment.  There is essentially no cooldown on this, so it can be used over and over.\
@@ -65,7 +71,19 @@ I'll parry it!  This causes the item to do no damage and not count toward the co
 !manual or !commands - Brings up a link to the manual.  You're here right now!\
 !alpaca - Shares a random alpaca fact.  May or may not be completely accurate (most are accurate though).\
 !stoat - Shares a random stoat fact.  What could this imply?\
-!lurk - A simple lurk command, doesn't do much else.
+!lurk - A simple lurk command, doesn't do much else.\
+!save - Reminds me to save.  Plays a little animation and sound.\
+
+# Pickpocketing game!
+*Type: Channel Point redeem/chat message*\
+You can use the "Pickpocket Me" redeem to accumulate Plenty.  Once you have some plenty, you can use the *!pickpocket [username]* command to STEAL Plenty from another chat member!\
+*(Currently you need to type the user's name verbatim because I'm dumb and don't know how to properly code*\
+\
+The !currency command will tell you how much Plenty you have.\
+
+# Russian Roulette?!
+*Type: Channel Point redeem*
+Once a stream, you can test your luck with this dangerous contraption.  An animation will play, and you will have a 1 in 6 chance of receiving a 30 minute timeout.\
 
 # Text to Speech, featuring Dangonya
 *Type: Channel Point Redeem*\
@@ -84,3 +102,4 @@ She can also read off randomly saved quotes, running off a modified version of c
 *Do not listen to anything it says.*\
 \
 This is the antagonist.  It'll go away if you tell it to SHUT THE F#!% UP.\
+*Now with up to only 40% spider eggs*
