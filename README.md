@@ -76,7 +76,8 @@ I'll parry it!  This causes the item to do no damage and not count toward the co
 !alpaca - Shares a random alpaca fact.  May or may not be completely accurate (most are accurate though).\
 !stoat - Shares a random stoat fact.  What could this imply?\
 !lurk - A simple lurk command, doesn't do much else.\
-!save - Reminds me to save.  Plays a little animation and sound.\
+!pet - Pets the alpaca.  Plays a little animation and sound.\
+!save - Reminds me to save.  Plays a little animation and sound.
 
 # Pickpocketing game!
 *Type: Channel Point redeem/chat message*\
@@ -85,6 +86,8 @@ You can use the "Pickpocket Me" redeem to accumulate Plenty.  Once you have some
 *(Currently you need to type the user's name verbatim because I'm dumb and don't know how to properly code*\
 \
 The !currency command will tell you how much Plenty you have.\
+\
+*As a reminder, Plenty is a fictional currency and holds no actual monetary value.  Plenty cannot be bought with money nor can it be exchanged for any actual currencies.*
 
 # Russian Roulette?!
 *Type: Channel Point redeem*\
