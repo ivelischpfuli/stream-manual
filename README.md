@@ -84,7 +84,9 @@ The !currency command will tell you how much Plenty you have.\
 # Russian Roulette?!
 *Type: Channel Point redeem*\
 ![crazy alpaca](media/KILL1.png)
+\
 Once a stream, you can test your luck with this dangerous contraption.  An animation will play, and you will have a 1 in 6 chance of receiving a 30 minute timeout.\
+*Which is the lucky outcome?  I don't know!*
 
 # Text to Speech, featuring Dangonya
 *Type: Channel Point Redeem*\
