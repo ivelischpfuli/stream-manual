@@ -58,7 +58,7 @@ Currently, combos and damage are purely cosmetic.
 *Type: Chat message*\
 There are quite a few chat commands that anyone can use which cause various effects.\
 \
-!taunt - Causes me to taunt, which displays a random alpaca for a brief moment.  There is essentially no cooldown on this, so it can be used over and over.\
+!taunt - Causes me to taunt, which displays a random alpaca for a brief moment.  There is no cost or cooldown, so it can be used over and over.\
 \
 ![taunt gif](media/taunt.gif)
 \
@@ -76,13 +76,13 @@ I'll parry it!  This causes the item to do no damage and not count toward the co
 
 # Pickpocketing game!
 *Type: Channel Point redeem/chat message*\
-You can use the "Pickpocket Me" redeem to accumulate Plenty.  Once you have some plenty, you can use the *!pickpocket [username]* command to STEAL Plenty from another chat member!\
+You can use the "Pickpocket Me" redeem to accumulate Plenty.  Once you have some Plenty, you can use the *!pickpocket [username]* command to STEAL Plenty from another chat member!\
 *(Currently you need to type the user's name verbatim because I'm dumb and don't know how to properly code*\
 \
 The !currency command will tell you how much Plenty you have.\
 
 # Russian Roulette?!
-*Type: Channel Point redeem*
+*Type: Channel Point redeem*\
 Once a stream, you can test your luck with this dangerous contraption.  An animation will play, and you will have a 1 in 6 chance of receiving a 30 minute timeout.\
 
 # Text to Speech, featuring Dangonya
