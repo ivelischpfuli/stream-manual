@@ -28,13 +28,9 @@ Here is a quick glossary of terms\
 *SAMMI* - "Stream Automation, Management, Monitoring & Innovation", the software that makes everything here possible.\
 *LandiTube* - The thing that makes my avatar bounce around and stuff!  Runs off SAMMI, created by Landie.\
 *Lemons* - This channel's version of Channel Points (when life gives you Lemons...)\
-*Plenty* - The fake currency used in the pick-pocketing system.  It's called "Plenty" because you want PLENTY of it.  Currently has no use.\
-*Dango/Dangonya* - Resident fat French cat, real name Felicity Petit, used for the Text to Speech (TTS), and sometimes appears in the FAT AND SASSY redeem.
-
-# Sounds!!
-*Type: Channel Point redeem*\
-\
-There are many sounds.
+*Plenty* - The fake currency used in the pick-pocketing system.  It's called "Plenty" because you want PLENTY of it.  Currently has no actual use.\
+*Dango/Dangonya* - Resident fat French cat, real name Felicity Petit, used for the Text to Speech (TTS), and sometimes appears in the FAT AND SASSY redeem.\
+*Iveli-verse* - Catch-all term for characters and things I've made.
 
 # Big fat bouncy Twitch Intergrated Throwing System
 *Type: Channel Point redeem*\
@@ -79,6 +75,11 @@ I'll parry it!  This causes the item to do no damage and not count toward the co
 !pet - Pets the alpaca.  Plays a little animation and sound.\
 !save - Reminds me to save.  Plays a little animation and sound.
 
+# Sounds!!
+*Type: Channel Point redeem*\
+\
+There are many sounds.
+
 # Pickpocketing game!
 *Type: Channel Point redeem/chat message*\
 \
@@ -87,7 +88,7 @@ You can use the "Pickpocket Me" redeem to accumulate Plenty.  Once you have some
 \
 The !currency command will tell you how much Plenty you have.\
 \
-*As a reminder, Plenty is a fictional currency and holds no actual monetary value.  Plenty cannot be bought with money nor can it be exchanged for any actual currencies.*
+*Disclaimer: Plenty is a fictional currency and holds no actual monetary value.  Plenty cannot be bought with money nor can it be exchanged for goods, services, or real currency.  It only exists within the confides of the Iveli-verse.*
 
 # Russian Roulette?!
 *Type: Channel Point redeem*\
