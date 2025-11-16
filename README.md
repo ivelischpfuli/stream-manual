@@ -1,6 +1,7 @@
 # Welcome to the Iveli Alpaca stream!
 ![A poorly drawn alpaca pointing to a sign that reads "QUADRUPLE HELL"](media/quadrupleHell.jpg)
 I'm Iveli Alpaca, and I'm the one responsible for this mess you're about to subject yourself to.  Thankfully, this manual will help maximize your survival instinct.\
+*Odds are any of your questions will be answered in this guide.  Use CTRL+F to quickly search keywords.*\
 \
 Most things here were set up by me with the power of SAMMI, LandiTube, and the Twitch Integrated Throwing System\
 \
@@ -120,8 +121,27 @@ Dangonya will speak whatever Godless nonsense you send to her.\
 ![Dango idle](media/dangoTalkIdle.gif)
 \
 Additionally, there are unique sound effects you can insert into the middle of her sentences!\
-**These must be typed verbatim or they will not work!**\
+**These MUST be typed verbatim or they will not work!**\
+\*alarm*\
+\*argh*\
+\*bloop*\
 \*burp*\
+\*bwomp*\
+\*chaching*\
+\*coocoo*\
+\*crunch*\
+\*ding*\
+\*explode*\
+\*gun*\
+\*honk*\
+\*inflate*\
+\*pop*\
+\*pot break*\
+\*sip*\
+\*slap*\
+\*splash*\
+\*sproing*\
+\*squeak*\
 (More to come as I add them)\
 She can also read off randomly saved quotes, running off a modified version of chrizzz_1508's Quote System, which can be found here: https://ko-fi.com/s/8c92e53077
 
