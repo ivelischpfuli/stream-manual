@@ -106,8 +106,9 @@ Dangonya will speak whatever Godless nonsense you send to her.\
 ![Dango idle](media/dangoTalkIdle.gif)
 \
 Additionally, there are unique sound effects you can insert into the middle of her sentences!\
-**These MUST be typed verbatim or they will not work!**\
+**These MUST be typed verbatim or they will not work!  That said, they aren't case sensitive.**\
 \*alarm*\
+\*airhorn*\
 \*argh*\
 \*bloop*\
 \*burp*\
@@ -116,12 +117,18 @@ Additionally, there are unique sound effects you can insert into the middle of h
 \*coocoo*\
 \*crunch*\
 \*ding*\
+\*door open*\
+\*door close*\
 \*explode*\
 \*gun*\
 \*honk*\
 \*inflate*\
+\*monkey*\
 \*pop*\
 \*pot break*\
+\*record scratch*\
+\*RIP*\
+\*shield*\
 \*sip*\
 \*slap*\
 \*splash*\
