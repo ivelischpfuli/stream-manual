@@ -141,7 +141,7 @@ Additionally, there are unique sound effects you can insert into the middle of h
 
 # ...doll?
 
-![cursed doll](media/iveliDoll.jpg)
+![cursed doll](media/iveliDoll.gif)
 \
 *Do not make eye contact with it.*\
 *Do not attempt to communicate with it.*\
