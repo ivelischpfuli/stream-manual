@@ -2,9 +2,6 @@
 ![A poorly drawn alpaca pointing to a sign that reads "QUADRUPLE HELL"](media/quadrupleHell.jpg)
 I'm Iveli Alpaca, and I'm the one responsible for this mess you're about to subject yourself to.  Thankfully, this manual will help maximize your survival instinct.\
 *Odds are any of your questions will be answered in this guide.  Use CTRL+F to quickly search keywords.*\
-\
-Twitch Integrated Throwing System\
-
 
 # What the hell?
 It can be a bit overwhelming, but this stream has quite a few features to make it an interactive and enjoyable experience.  Think of it like a game you can play as you watch.\
