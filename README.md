@@ -1,19 +1,10 @@
 # Welcome to the Iveli Alpaca stream!
 ![A poorly drawn alpaca pointing to a sign that reads "QUADRUPLE HELL"](media/quadrupleHell.jpg)
 I'm Iveli Alpaca, and I'm the one responsible for this mess you're about to subject yourself to.  Thankfully, this manual will help maximize your survival instinct.\
-\
-Most things here were set up by me with the power of SAMMI, LandiTube, and the Twitch Integrated Throwing System\
-\
-Official SAMMI site\
-https://sammi.solutions/
-\
-\
-Landie's Shop\
-https://landie.land/shop/sammi-extensions/
-\
+*Odds are any of your questions will be answered in this guide.  Use CTRL+F to quickly search keywords.*\
 \
 Twitch Integrated Throwing System\
-https://remasuri3.itch.io/tits/
+
 
 # What the hell?
 It can be a bit overwhelming, but this stream has quite a few features to make it an interactive and enjoyable experience.  Think of it like a game you can play as you watch.\
@@ -24,9 +15,7 @@ It can be a bit overwhelming, but this stream has quite a few features to make i
 \
 Here is a quick glossary of terms\
 \
-*TITS* - "Twitch Integrated Throwing System", the thing that throws objects at me.\
-*SAMMI* - "Stream Automation, Management, Monitoring & Innovation", the software that makes everything here possible.\
-*LandiTube* - The thing that makes my avatar bounce around and stuff!  Runs off SAMMI, created by Landie.\
+*TITS* - "Twitch Integrated Throwing System", the thing that throws objects at me.  Can be found here https://remasuri3.itch.io/tits/ \
 *Lemons* - This channel's version of Channel Points (when life gives you Lemons...)\
 *Plenty* - The fake currency used in the pick-pocketing system.  It's called "Plenty" because you want PLENTY of it.  Currently has no actual use.\
 *Dango/Dangonya* - Resident fat French cat, real name Felicity Petit, used for the Text to Speech (TTS), and sometimes appears in the FAT AND SASSY redeem.\
@@ -119,7 +108,29 @@ Dangonya will speak whatever Godless nonsense you send to her.\
 \
 ![Dango idle](media/dangoTalkIdle.gif)
 \
-She can also read off randomly saved quotes, running off a modified version of chrizzz_1508's Quote System, which can be found here: https://ko-fi.com/s/8c92e53077
+Additionally, there are unique sound effects you can insert into the middle of her sentences!\
+**These MUST be typed verbatim or they will not work!**\
+\*alarm*\
+\*argh*\
+\*bloop*\
+\*burp*\
+\*bwomp*\
+\*chaching*\
+\*coocoo*\
+\*crunch*\
+\*ding*\
+\*explode*\
+\*gun*\
+\*honk*\
+\*inflate*\
+\*pop*\
+\*pot break*\
+\*sip*\
+\*slap*\
+\*splash*\
+\*sproing*\
+\*squeak*\
+(More to come as I add them)\
 
 # ...doll?
 
