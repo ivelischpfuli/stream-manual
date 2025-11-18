@@ -143,7 +143,6 @@ Additionally, there are unique sound effects you can insert into the middle of h
 \*sproing*\
 \*squeak*\
 (More to come as I add them)\
-She can also read off randomly saved quotes, running off a modified version of chrizzz_1508's Quote System, which can be found here: https://ko-fi.com/s/8c92e53077
 
 # ...doll?
 
