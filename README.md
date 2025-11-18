@@ -109,6 +109,7 @@ Additionally, there are unique sound effects you can insert into the middle of h
 **These MUST be typed verbatim or they will not work!  That said, they aren't case sensitive.**\
 \*alarm*\
 \*airhorn*\
+\*alarm*\
 \*argh*\
 \*bloop*\
 \*burp*\
@@ -129,6 +130,8 @@ Additionally, there are unique sound effects you can insert into the middle of h
 \*record scratch*\
 \*RIP*\
 \*shield*\
+\*pop*\
+\*pot break*\
 \*sip*\
 \*slap*\
 \*splash*\
